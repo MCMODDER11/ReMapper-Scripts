@@ -141,9 +141,9 @@ bgc.addToEnd(100);
 bgc.run();
 
 //  Lasers
-idOffset(13,6,100);
-lasers(13,6,[0.3,30,0.3],[-5,5]);
-bgLasers(250,10,12);
+idOffset(10,6,100);
+lasers(10,6,[0.3,30,0.3],[-5,5]);
+bgLasers(250,10,7);
 bgLasers(250,10,3);
 
 
